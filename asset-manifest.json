@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/isoftstoneStates/static/css/main.ff1915e8.chunk.css",
-    "main.js": "/isoftstoneStates/static/js/main.ed4feeff.chunk.js",
-    "main.js.map": "/isoftstoneStates/static/js/main.ed4feeff.chunk.js.map",
-    "runtime-main.js": "/isoftstoneStates/static/js/runtime-main.a74c43ef.js",
-    "runtime-main.js.map": "/isoftstoneStates/static/js/runtime-main.a74c43ef.js.map",
-    "static/js/2.f11065f4.chunk.js": "/isoftstoneStates/static/js/2.f11065f4.chunk.js",
-    "static/js/2.f11065f4.chunk.js.map": "/isoftstoneStates/static/js/2.f11065f4.chunk.js.map",
-    "static/js/3.883aa804.chunk.js": "/isoftstoneStates/static/js/3.883aa804.chunk.js",
-    "static/js/3.883aa804.chunk.js.map": "/isoftstoneStates/static/js/3.883aa804.chunk.js.map",
-    "index.html": "/isoftstoneStates/index.html",
-    "static/css/main.ff1915e8.chunk.css.map": "/isoftstoneStates/static/css/main.ff1915e8.chunk.css.map",
-    "static/js/2.f11065f4.chunk.js.LICENSE.txt": "/isoftstoneStates/static/js/2.f11065f4.chunk.js.LICENSE.txt"
+    "main.css": "/isoftstonestates/static/css/main.ff1915e8.chunk.css",
+    "main.js": "/isoftstonestates/static/js/main.ed4feeff.chunk.js",
+    "main.js.map": "/isoftstonestates/static/js/main.ed4feeff.chunk.js.map",
+    "runtime-main.js": "/isoftstonestates/static/js/runtime-main.9c1ef430.js",
+    "runtime-main.js.map": "/isoftstonestates/static/js/runtime-main.9c1ef430.js.map",
+    "static/js/2.f11065f4.chunk.js": "/isoftstonestates/static/js/2.f11065f4.chunk.js",
+    "static/js/2.f11065f4.chunk.js.map": "/isoftstonestates/static/js/2.f11065f4.chunk.js.map",
+    "static/js/3.883aa804.chunk.js": "/isoftstonestates/static/js/3.883aa804.chunk.js",
+    "static/js/3.883aa804.chunk.js.map": "/isoftstonestates/static/js/3.883aa804.chunk.js.map",
+    "index.html": "/isoftstonestates/index.html",
+    "static/css/main.ff1915e8.chunk.css.map": "/isoftstonestates/static/css/main.ff1915e8.chunk.css.map",
+    "static/js/2.f11065f4.chunk.js.LICENSE.txt": "/isoftstonestates/static/js/2.f11065f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a74c43ef.js",
+    "static/js/runtime-main.9c1ef430.js",
     "static/js/2.f11065f4.chunk.js",
     "static/css/main.ff1915e8.chunk.css",
     "static/js/main.ed4feeff.chunk.js"
